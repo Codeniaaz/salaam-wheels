@@ -1,0 +1,12 @@
+{
+  "name": "salaam-wheels",
+  "version": "1.0.0",
+  "description": "## Overview Salaam Wheels is a user-friendly e-commerce platform dedicated to buying and selling car wheels. This project focuses on providing an intuitive interface where users can easily search for, compare, and purchase wheels.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -27,8 +27,8 @@ Salaam Wheels is a user-friendly e-commerce platform dedicated to buying and sel
 ## Setup and Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/waigwa-wheels.git
-    cd waigwa-wheels
+    git clone https://github.com/Codeniaaz/salaam-wheels.git
+    cd salaam-wheels
     ```
 
 2. **Install dependencies:**
@@ -72,10 +72,9 @@ Balancing the project with other commitments was a significant challenge. By cre
 - **Additional Filters:** Introduce more detailed filter options for a better search experience.
 
 ## Author
-**Augustine Waigwa**  
-I am a passionate web developer focused on creating intuitive and responsive web applications. You can view more of my work on [GitHub](https://github.com/your-username) and connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+**Abdiaziz Muktar**  
+I am a passionate web developer focused on creating intuitive and responsive web applications. You can view more of my work on [GitHub](https://github.com/Codeniaaz) and connect with me on [LinkedIn](https://www.linkedin.com/in/-851360283/).
 
 ---
 
-Thank you for checking out Waigwa Wheels! If you have any feedback or suggestions, feel free to reach out.
-
+Thank you for checking out salaam Wheels! If you have any feedback or suggestions, feel free to reach out.
